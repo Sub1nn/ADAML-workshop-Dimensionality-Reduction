@@ -1,1 +1,1 @@
-# ADAML-workshop1
+# ADAML-workshop-Dimensionality-Reduction
